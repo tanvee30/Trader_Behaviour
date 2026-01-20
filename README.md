@@ -71,3 +71,35 @@ Average PnL across sentiment categories
 Trade activity distribution across sentiments
 
 These visualizations help identify how trader performance changes under different market emotions.
+
+
+Trading Insights:
+1.Traders perform worst during extreme emotions
+When the market is in Extreme Fear or Extreme Greed, traders lose more and win less.
+
+2.Best performance happens in normal conditions
+Trades made during Fear or Greed (not extreme) have better win rates and higher average profits.
+
+3.Too much trading during Extreme Greed
+Traders place more trades during Extreme Greed, but profits do not increase—this shows overconfidence.
+
+4.Fear leads to cautious trading
+During Extreme Fear, traders reduce trade size and frequency, often missing good opportunities.
+
+5.Buy and sell behavior changes with sentiment
+More BUY trades happen during Fear, while more SELL trades happen during Greed.
+
+6.Higher activity does not mean higher profit
+Periods with the most trades do not always generate the best returns.
+
+7.Sentiment affects behavior more than price
+Market sentiment influences how traders act, not just market direction.
+
+Simple Trading Strategy (Based on Insights)
+
+1.Avoid heavy trading during Extreme Fear & Extreme Greed
+2.Trade normally during Fear and Greed
+3.Reduce position size during emotional market phases
+4.Use sentiment as a risk control tool, not a buy/sell signal
+
+Trading works best when emotions are controlled and sentiment is used to manage risk, not chase profits.
